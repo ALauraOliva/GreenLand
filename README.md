@@ -1,12 +1,3 @@
-# React + Vite 🔽
-
-Este template proporciona una configuración mínima para hacer funcionar React en Vite con HMR (Hot Module Replacement) y algunas reglas de ESLint.
-
-Actualmente, están disponibles dos complementos oficiales:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) utiliza [Babel](https://babeljs.io/) para una Actualización Rápida
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) utiliza [SWC](https://swc.rs/) para una Actualización Rápida
-
 ## GreenLand App
 
 ### Bienvenido a GreenLand App, tu destino para compras ecológicas y conscientes
