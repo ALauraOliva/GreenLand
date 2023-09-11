@@ -1,5 +1,3 @@
-## GreenLand App
-
 ### Bienvenido a GreenLand App, tu destino para compras ecológicas y conscientes
 
 "GreenLand" es una emocionante iniciativa que busca revolucionar la experiencia de compra en línea al ofrecer una amplia variedad de productos, todos ellos alineados con valores ecológicos y respetuosos con el medio ambiente. Nuestro objetivo es proporcionar a los consumidores una plataforma integral donde puedan explorar y adquirir desde alimentos saludables hasta artículos de limpieza sostenibles, todo en un solo lugar.
