@@ -2,6 +2,8 @@
 
 "GreenLand" es una emocionante iniciativa que busca revolucionar la experiencia de compra en línea al ofrecer una amplia variedad de productos, todos ellos alineados con valores ecológicos y respetuosos con el medio ambiente. Nuestro objetivo es proporcionar a los consumidores una plataforma integral donde puedan explorar y adquirir desde alimentos saludables hasta artículos de limpieza sostenibles, todo en un solo lugar.
 
+![Bienvenido a GreenLand App, tu destino para compras ecológicas y conscientes | 25](https://i.postimg.cc/bJ9ZN1P8/Screenshot-2024-02-13-113545.png)
+
 ### Tecnologías Utilizadas
 
 #### Frontend
